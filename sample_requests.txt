@@ -1,0 +1,124 @@
+
+{
+  "admissions": 1,
+  "age": 55,
+  "bmi": 28.8,
+  "copd": 1,
+  "diabetes": 0,
+  "er_visits": 2,
+  "gender": "M",
+  "hypertension": 0,
+  "mental_health": 0,
+  "total_cost": 10355.33,
+  "visits_per_year": 1
+}
+
+
+{
+  "admissions": 0,
+  "age": 57,
+  "bmi": 25.3,
+  "copd": 0,
+  "diabetes": 1,
+  "er_visits": 1,
+  "gender": "F",
+  "hypertension": 0,
+  "mental_health": 0,
+  "total_cost": 5832.31,
+  "visits_per_year": 4
+}
+
+
+
+{
+  "admissions": 0,
+  "age": 72,
+  "bmi": 27.8,
+  "copd": 0,
+  "diabetes": 1,
+  "er_visits": 1,
+  "gender": "F",
+  "hypertension": 1,
+  "mental_health": 0,
+  "total_cost": 7592.28,
+  "visits_per_year": 7
+}
+
+
+
+{
+  "admissions": 0,
+  "age": 51,
+  "bmi": 28.5,
+  "copd": 0,
+  "diabetes": 0,
+  "er_visits": 0,
+  "gender": "F",
+  "hypertension": 0,
+  "mental_health": 0,
+  "total_cost": 3088.84,
+  "visits_per_year": 3
+}
+
+
+
+{
+  "admissions": 0,
+  "age": 55,
+  "bmi": 27.2,
+  "copd": 0,
+  "diabetes": 0,
+  "er_visits": 0,
+  "gender": "M",
+  "hypertension": 1,
+  "mental_health": 0,
+  "total_cost": 4948.47,
+  "visits_per_year": 4
+}
+
+
+{
+  "admissions": 0,
+  "age": 44,
+  "bmi": 27.7,
+  "copd": 0,
+  "diabetes": 0,
+  "er_visits": 0,
+  "gender": "F",
+  "hypertension": 0,
+  "mental_health": 1,
+  "total_cost": 3520.78,
+  "visits_per_year": 3
+}
+
+
+
+{
+  "admissions": 1,
+  "age": 73,
+  "bmi": 28.2,
+  "copd": 1,
+  "diabetes": 0,
+  "er_visits": 2,
+  "gender": "F",
+  "hypertension": 0,
+  "mental_health": 0,
+  "total_cost": 13469.41,
+  "visits_per_year": 5
+}
+
+
+
+{
+  "admissions": 0,
+  "age": 51,
+  "bmi": 29.0,
+  "copd": 0,
+  "diabetes": 0,
+  "er_visits": 0,
+  "gender": "M",
+  "hypertension": 0,
+  "mental_health": 0,
+  "total_cost": 2418.78,
+  "visits_per_year": 3
+}
